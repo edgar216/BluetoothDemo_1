@@ -33,7 +33,7 @@ import android.util.Log;
 
 /**
  * This class does all the work for setting up and managing Bluetooth
- * connections with other devices. It has a thread that listens for
+ * connections with other devices. It has a thread that listens for   第三方
  * incoming connections, a thread for connecting with a device, and a
  * thread for performing data transmissions when connected.
  */
