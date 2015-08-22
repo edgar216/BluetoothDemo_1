@@ -40,7 +40,8 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 /**
- * This is the main Activity that displays the current chat session.  改变~
+ * This is the main Activity that displays the current chat session.  改变~   
+ * 再改一次
  */
 public class BluetoothChat extends Activity {
     // Debugging
